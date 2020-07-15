@@ -1,0 +1,2 @@
+# exercises
+All possibilites
